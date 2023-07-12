@@ -1,0 +1,12 @@
+release/Box.o
+release/Bullet.o
+release/Jungle.o
+release/Map.o
+release/Tank.o
+release/View.o
+release/Wall.o
+release/main.o
+release/qrc_QRC.o
+release/moc_Bullet.o
+release/moc_Tank.o
+release/moc_View.o

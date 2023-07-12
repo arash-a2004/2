@@ -1,0 +1,12 @@
+debug/Box.o
+debug/Bullet.o
+debug/Jungle.o
+debug/Map.o
+debug/Tank.o
+debug/View.o
+debug/Wall.o
+debug/main.o
+debug/qrc_QRC.o
+debug/moc_Bullet.o
+debug/moc_Tank.o
+debug/moc_View.o
